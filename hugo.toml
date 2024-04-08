@@ -9,10 +9,11 @@ ignorefiles = ['content/templates']
     contentDir = 'content/ko'
 
     [languages.ko.params.homeInfoMode]
-      enabled = true
+    enabled = true
+
     [languages.ko.params.homeInfoParams]
-        Title = "Hi there wave"
-        Content = "Can be Info, links, about..."
+    Title = "Hi there wave"
+    Content = "Can be Info, links, about..."
 
     [[languages.ko.params.socialIcons]]
     name = "<platform>"
@@ -21,10 +22,10 @@ ignorefiles = ['content/templates']
     [[languages.ko.params.socialIcons]]
     name = "<platform 2>"
     url = "<link2>"
-    [[languages.ko.params.profileMode.buttons]]
+    [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Archive'
     url = '/ko/archive'
-    [[languages.ko.params.profileMode.buttons]]
+    [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Posts'
     url = '/ko/posts'
 
@@ -33,10 +34,11 @@ ignorefiles = ['content/templates']
     contentDir = 'content/en'
 
     [languages.en.params.homeInfoMode]
-      enabled = true
+    enabled = true
+
     [languages.en.params.homeInfoParams]
-        Title = "Hi there wave"
-        Content = "Can be Info, links, about..."
+    Title = "Hi there wave"
+    Content = "Can be Info, links, about..."
 
     [[languages.en.params.socialIcons]]
     name = "<platform>"
@@ -45,9 +47,11 @@ ignorefiles = ['content/templates']
     [[languages.en.params.socialIcons]]
     name = "<platform 2>"
     url = "<link2>"
-    [[languages.en.params.profileMode.buttons]]
+
+    [[languages.en.params.homeInfoMode.buttons]]
     name = 'Archive'
     url = '/en/archive'
-    [[languages.en.params.profileMode.buttons]]
+
+    [[languages.en.params.homeInfoMode.buttons]]
     name = 'Posts'
     url = '/en/posts'

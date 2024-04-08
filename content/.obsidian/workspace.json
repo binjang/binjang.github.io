@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "843ce7240b24a921",
+        "id": "172584884b0566ae",
         "type": "tabs",
         "children": [
           {
-            "id": "965a1697d2aa94dd",
+            "id": "a4d06a29183aa6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/1.md",
+                "file": "en/posts/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/1.md",
+                "file": "en/posts/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/1.md",
+                "file": "en/posts/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/1.md"
+                "file": "en/posts/1.md"
               }
             }
           }
@@ -146,22 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "965a1697d2aa94dd",
+  "active": "8ba83bc563b7c371",
   "lastOpenFiles": [
+    "templates/post.md",
+    "en/posts/1.md",
+    "en/posts",
+    "posts/1.md",
+    "1.md",
+    "ko",
+    "en",
     "posts/ko",
     "posts/ko.............................................................................................................................................................................................................................................................",
     "posts/en",
-    "posts/1.md",
     "posts",
-    "en/posts/1.md",
-    "en/posts",
-    "ko",
-    "en",
     "posts/en/1.md",
     "posts/my-first-post.md",
     "posts/3.md",
     "posts/2.md",
-    "templates/post.md",
     "Creating a Personal Blog with Hugo.md",
     "templates"
   ]
