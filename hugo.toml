@@ -1,4 +1,5 @@
 baseURL = 'https://binjang.github.io/'
 languageCode = 'en-us'
-title = 'mainhugo'
+title = 'main'
 theme = 'PaperMod'
+ignorefiles = ['content/templates']

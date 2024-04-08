@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://binjang.github.io/</loc>
-    <lastmod>2024-04-08T01:00:38-04:00</lastmod>
+    <loc>https://binjang.github.io/posts/creating-a-personal-blog-with-hugo/</loc>
+    <lastmod>2024-04-08T01:35:13-04:00</lastmod>
   </url><url>
-    <loc>https://binjang.github.io/posts/my-first-post/</loc>
-    <lastmod>2024-04-08T01:00:38-04:00</lastmod>
+    <loc>https://binjang.github.io/</loc>
+    <lastmod>2024-04-08T01:35:13-04:00</lastmod>
   </url><url>
     <loc>https://binjang.github.io/posts/</loc>
+    <lastmod>2024-04-08T01:35:13-04:00</lastmod>
+  </url><url>
+    <loc>https://binjang.github.io/posts/my-first-post/</loc>
     <lastmod>2024-04-08T01:00:38-04:00</lastmod>
   </url><url>
     <loc>https://binjang.github.io/categories/</loc>
