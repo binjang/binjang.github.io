@@ -13,6 +13,7 @@ enableEmoji = true
 
     [languages.ko.params]
     defaultTheme = 'auto'
+    author = '장빈'
     ShowShareButtons = true
     ShowReadingTime = true
 
@@ -25,6 +26,14 @@ enableEmoji = true
     This Blog is for sharing my idea notes and personal projects' progresses.
     You can find links to my portfolio and other SNS below.
     """
+
+    [[languages.ko.params.socialIcons]]
+    name = "cv"
+    url = "https://binjang.notion.site/Hi-I-m-Bin-39a00a62403844ec900bfbaa21859645?pvs=4"
+
+    [[languages.ko.params.socialIcons]]
+    name = "email"
+    url = "mailto:bjang98@gmail.com"
 
     [[languages.ko.params.socialIcons]]
     name = "github"
@@ -52,6 +61,12 @@ enableEmoji = true
     languageName = ':en:'
     languageAltTitle = 'English'
 
+    [languages.en.params]
+    defaultTheme = 'auto'
+    author = 'Bin Jang'
+    ShowShareButtons = true
+    ShowReadingTime = true
+
     [languages.en.params.homeInfoMode]
     enabled = true
 
@@ -61,6 +76,14 @@ enableEmoji = true
     This Blog is for sharing my idea notes and personal projects' progresses.
     You can find links to my portfolio and other SNS below.
     """
+
+    [[languages.en.params.socialIcons]]
+    name = "cv"
+    url = "https://binjang.notion.site/Hi-I-m-Bin-39a00a62403844ec900bfbaa21859645?pvs=4"
+
+    [[languages.en.params.socialIcons]]
+    name = "email"
+    url = "mailto:bjang98@gmail.com"
 
     [[languages.en.params.socialIcons]]
     name = "github"
