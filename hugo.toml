@@ -7,7 +7,7 @@ ignorefiles = ['content/templates']
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
-    languageName = '🇰🇷 한국어'
+    languageName = '🇰🇷'
 
     [languages.ko.params.homeInfoMode]
     enabled = true
@@ -33,7 +33,7 @@ ignorefiles = ['content/templates']
 
     [languages.en]
     contentDir = 'content/en'
-    languageName = '🇺🇸 English'
+    languageName = '🇺🇸'
 
     [languages.en.params.homeInfoMode]
     enabled = true

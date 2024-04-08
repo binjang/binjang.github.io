@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on main</title>
+    <title>Categories on Infinite Horizon</title>
     <link>https://binjang.github.io/ko/categories/</link>
-    <description>Recent content in Categories on main</description>
+    <description>Recent content in Categories on Infinite Horizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <atom:link href="https://binjang.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
