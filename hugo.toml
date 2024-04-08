@@ -3,3 +3,51 @@ languageCode = 'en-us'
 title = 'main'
 theme = 'PaperMod'
 ignorefiles = ['content/templates']
+
+[languages]
+    [languages.ko]
+    contentDir = 'content/ko'
+
+    [languages.ko.params.homeInfoMode]
+      enabled = true
+    [languages.ko.params.homeInfoParams]
+        Title = "Hi there wave"
+        Content = "Can be Info, links, about..."
+
+    [[languages.ko.params.socialIcons]]
+    name = "<platform>"
+    url = "<link>"
+
+    [[languages.ko.params.socialIcons]]
+    name = "<platform 2>"
+    url = "<link2>"
+    [[languages.ko.params.profileMode.buttons]]
+    name = 'Archive'
+    url = '/ko/archive'
+    [[languages.ko.params.profileMode.buttons]]
+    name = 'Posts'
+    url = '/ko/posts'
+
+
+    [languages.en]
+    contentDir = 'content/en'
+
+    [languages.en.params.homeInfoMode]
+      enabled = true
+    [languages.en.params.homeInfoParams]
+        Title = "Hi there wave"
+        Content = "Can be Info, links, about..."
+
+    [[languages.en.params.socialIcons]]
+    name = "<platform>"
+    url = "<link>"
+
+    [[languages.en.params.socialIcons]]
+    name = "<platform 2>"
+    url = "<link2>"
+    [[languages.en.params.profileMode.buttons]]
+    name = 'Archive'
+    url = '/en/archive'
+    [[languages.en.params.profileMode.buttons]]
+    name = 'Posts'
+    url = '/en/posts'
