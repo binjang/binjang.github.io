@@ -20,6 +20,7 @@ enableRobotsTXT = true
     comments = true
     hideSummary = false
     languageAltTitle = 'Korean'
+    ShowToc = true
 
     [languages.ko.params.homeInfoMode]
     enabled = true
@@ -30,6 +31,26 @@ enableRobotsTXT = true
     This Blog is for sharing my idea notes and personal projects' progresses.
     You can find links to my portfolio and other SNS below.
     """
+
+    [languages.ko.taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+    [[languages.ko.menu.main]]
+    name = "Archive"
+    url = "archives"
+    weight = 5
+
+    [[languages.ko.menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 10
+
+    [[languages.ko.menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 10
 
     [[languages.ko.params.socialIcons]]
     name = "cv"
@@ -69,6 +90,7 @@ enableRobotsTXT = true
     comments = true
     hideSummary = false
     languageAltTitle = 'English'
+    ShowToc = true
 
     [languages.en.params.homeInfoMode]
     enabled = true
@@ -79,6 +101,26 @@ enableRobotsTXT = true
     This Blog is for sharing my idea notes and personal projects' progresses.
     You can find links to my portfolio and other SNS below.
     """
+
+    [languages.en.taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+    [[languages.en.menu.main]]
+    name = "Archive"
+    url = "archives"
+    weight = 5
+
+    [[languages.en.menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 10
+
+    [[languages.en.menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 10
 
     [[languages.en.params.socialIcons]]
     name = "cv"
