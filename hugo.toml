@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Infinite Horizon'
 theme = 'PaperMod'
 ignorefiles = ['content/templates']
+enableEmoji = true
 
 [languages]
     [languages.ko]
