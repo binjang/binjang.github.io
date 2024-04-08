@@ -28,6 +28,19 @@
                 href="https://binjang.github.io/ko/posts/"
                 />
   </url><url>
+    <loc>https://binjang.github.io/ko/posts/1/</loc>
+    <lastmod>2024-04-08T17:03:21-04:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binjang.github.io/posts/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://binjang.github.io/ko/posts/1/"
+                />
+  </url><url>
     <loc>https://binjang.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
