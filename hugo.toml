@@ -8,9 +8,10 @@ ignorefiles = ['content/templates']
     [languages.ko]
     contentDir = 'content/ko'
     languageName = ':ko:'
+    languageAltTitle = 'Korean'
 
     [languages.ko.params]
-    defaultTheme = "auto"
+    defaultTheme = 'auto'
     ShowShareButtons = true
     ShowReadingTime = true
 
@@ -18,16 +19,24 @@ ignorefiles = ['content/templates']
     enabled = true
 
     [languages.ko.params.homeInfoParams]
-    Title = "Hi there wave"
-    Content = "Can be Info, links, about..."
+    Title = "Welcome to my Blog! :raising_hand_man:"
+    Content = """
+    This Blog is for sharing my idea notes and personal projects' progresses.
+    You can find links to my portfolio and other SNS below.
+    """
 
     [[languages.ko.params.socialIcons]]
-    name = "<platform>"
-    url = "<link>"
+    name = "github"
+    url = "https://github.com/binjang"
 
     [[languages.ko.params.socialIcons]]
-    name = "<platform 2>"
-    url = "<link2>"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/bin-jang/"
+
+    [[languages.ko.params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/binj0313"
+
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Archive'
     url = '/ko/archive'
@@ -39,6 +48,7 @@ ignorefiles = ['content/templates']
     [languages.en]
     contentDir = 'content/en'
     languageName = ':en:'
+    languageAltTitle = 'English'
 
     [languages.en.params.homeInfoMode]
     enabled = true
