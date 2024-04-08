@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Infinite Horizon</title>
-    <link>https://binjang.github.io/ko/</link>
-    <description>Recent content on Infinite Horizon</description>
+    <title>Posts on Infinite Horizon</title>
+    <link>https://binjang.github.io/ko/posts/</link>
+    <description>Recent content in Posts on Infinite Horizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://binjang.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://binjang.github.io/ko/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
