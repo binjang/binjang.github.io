@@ -1,12 +1,13 @@
 baseURL = 'https://binjang.github.io/'
 languageCode = 'en-us'
-title = 'main'
+title = 'Infinite Horizon'
 theme = 'PaperMod'
 ignorefiles = ['content/templates']
 
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
+    languageName = '🇰🇷 한국어'
 
     [languages.ko.params.homeInfoMode]
     enabled = true
@@ -32,6 +33,7 @@ ignorefiles = ['content/templates']
 
     [languages.en]
     contentDir = 'content/en'
+    languageName = '🇺🇸 English'
 
     [languages.en.params.homeInfoMode]
     enabled = true
