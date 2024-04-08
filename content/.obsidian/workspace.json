@@ -11,12 +11,8 @@
             "id": "a4d06a29183aa6d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "en/posts/1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "en/posts/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "en/posts/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +142,15 @@
   },
   "active": "8ba83bc563b7c371",
   "lastOpenFiles": [
-    "templates/post.md",
+    "ko/posts/1.md",
     "en/posts/1.md",
+    "en/ko/posts/1.md",
+    "en/ko/posts",
+    "en/ko",
+    "ko/posts",
+    "ko/archive",
+    "en/archive",
+    "templates/post.md",
     "en/posts",
     "posts/1.md",
     "1.md",
@@ -157,13 +158,10 @@
     "en",
     "posts/ko",
     "posts/ko.............................................................................................................................................................................................................................................................",
-    "posts/en",
-    "posts",
     "posts/en/1.md",
     "posts/my-first-post.md",
     "posts/3.md",
     "posts/2.md",
-    "Creating a Personal Blog with Hugo.md",
-    "templates"
+    "Creating a Personal Blog with Hugo.md"
   ]
 }
