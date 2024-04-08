@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c89c014572d8d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/2.md",
+                "file": "posts/3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/2.md",
+                "file": "posts/3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/2.md"
+                "file": "posts/3.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "965a1697d2aa94dd",
+  "active": "9c89c014572d8d24",
   "lastOpenFiles": [
+    "posts/2.md",
+    "posts/3.md",
     "posts/1.md",
     "posts/my-first-post.md",
     "templates/post.md",
     "Creating a Personal Blog with Hugo.md",
-    "posts/2.md",
     "templates"
   ]
 }

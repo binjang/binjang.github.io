@@ -6,13 +6,22 @@
     <description>Recent content on main</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 01:35:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 02:02:26 -0400</lastBuildDate>
     <atom:link href="https://binjang.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Personal Blog with Hugo</title>
-      <link>https://binjang.github.io/posts/creating-a-personal-blog-with-hugo/</link>
+      <link>https://binjang.github.io/posts/1/</link>
+      <pubDate>Mon, 08 Apr 2024 02:02:26 -0400</pubDate>
+      <guid>https://binjang.github.io/posts/1/</guid>
+      <description>Creating a Personal Blog I actually had several unsuccessful attempts in creating a personal blog. These were some of the reasons:
+I got too obsessed with the aesthetics, spent a lot of time without completing one. The overall process was too complex, I gave up on it after a few posts. Didn&amp;rsquo;t have much to write about. Yet again, I&amp;rsquo;m starting a new blog, this time with Hugo.
+Why Hugo? Hugo was a clear winner over other frameworks, for several very important reasons:</description>
+    </item>
+    <item>
+      <title>Creating a Personal Blog with Hugo</title>
+      <link>https://binjang.github.io/posts/2/</link>
       <pubDate>Mon, 08 Apr 2024 01:35:13 -0400</pubDate>
-      <guid>https://binjang.github.io/posts/creating-a-personal-blog-with-hugo/</guid>
+      <guid>https://binjang.github.io/posts/2/</guid>
       <description>Creating a Personal Blog I actually had several unsuccessful attempts in creating a personal blog. These were some of the reasons:
 I got too obsessed with the aesthetics, spent a lot of time without completing one. The overall process was too complex, I gave up on it after a few posts. Didn&amp;rsquo;t have much to write about. Yet again, I&amp;rsquo;m starting a new blog, this time with Hugo.
 Why Hugo? Hugo was a clear winner over other frameworks, for several very important reasons:</description>
