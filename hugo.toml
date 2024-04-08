@@ -12,7 +12,6 @@ enableRobotsTXT = true
     languageName = ':ko:'
     weight = 2
 
-
     [languages.ko.params]
     defaultTheme = 'auto'
     author = '장빈'
@@ -28,8 +27,8 @@ enableRobotsTXT = true
     [languages.ko.params.homeInfoParams]
     Title = "Welcome to my Blog! :raising_hand_man:"
     Content = """
-    This Blog is for sharing my idea notes and personal projects' progresses.
-    You can find links to my portfolio and other SNS below.
+    개인 프로젝트 및 개인적인 아이디어 노트들을 공유하는 공간입니다.
+    포트폴리오 및 다른 소셜 미디어 링크들은 아래에서 찾아보실 수 있습니다.
     """
 
     [languages.ko.taxonomies]
@@ -98,8 +97,8 @@ enableRobotsTXT = true
     [languages.en.params.homeInfoParams]
     Title = "Welcome to my Blog! :raising_hand_man:"
     Content = """
-    This Blog is for sharing my idea notes and personal projects' progresses.
-    You can find links to my portfolio and other SNS below.
+    This blog is a space to share my idea notes and document the progress of my personal projects.
+    Links to my portfolio and other social media profiles are available below.
     """
 
     [languages.en.taxonomies]
