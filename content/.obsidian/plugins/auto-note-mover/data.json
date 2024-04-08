@@ -4,7 +4,7 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "posts",
+      "folder": "en/posts",
       "tag": "",
       "pattern": "."
     }

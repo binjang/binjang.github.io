@@ -7,7 +7,12 @@ ignorefiles = ['content/templates']
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
-    languageName = '🇰🇷'
+    languageName = ':ko:'
+
+    [languages.ko.params]
+    defaultTheme = "auto"
+    ShowShareButtons = true
+    ShowReadingTime = true
 
     [languages.ko.params.homeInfoMode]
     enabled = true
@@ -33,7 +38,7 @@ ignorefiles = ['content/templates']
 
     [languages.en]
     contentDir = 'content/en'
-    languageName = '🇺🇸'
+    languageName = ':en:'
 
     [languages.en.params.homeInfoMode]
     enabled = true
