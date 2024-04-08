@@ -4,18 +4,22 @@ title = 'Infinite Horizon'
 theme = 'PaperMod'
 ignorefiles = ['content/templates']
 enableEmoji = true
+enableRobotsTXT = true
 
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
     languageName = ':ko:'
-    languageAltTitle = 'Korean'
+    weight = 2
+
 
     [languages.ko.params]
     defaultTheme = 'auto'
     author = '장빈'
-    ShowShareButtons = true
     ShowReadingTime = true
+    comments = true
+    hideSummary = false
+    languageAltTitle = 'Korean'
 
     [languages.ko.params.homeInfoMode]
     enabled = true
@@ -43,10 +47,6 @@ enableEmoji = true
     name = "linkedin"
     url = "https://www.linkedin.com/in/bin-jang/"
 
-    [[languages.ko.params.socialIcons]]
-    name = "instagram"
-    url = "https://www.instagram.com/binj0313"
-
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Archive'
     url = '/ko/archive'
@@ -59,13 +59,16 @@ enableEmoji = true
     [languages.en]
     contentDir = 'content/en'
     languageName = ':en:'
-    languageAltTitle = 'English'
+    weight = 1
+
 
     [languages.en.params]
     defaultTheme = 'auto'
     author = 'Bin Jang'
-    ShowShareButtons = true
     ShowReadingTime = true
+    comments = true
+    hideSummary = false
+    languageAltTitle = 'English'
 
     [languages.en.params.homeInfoMode]
     enabled = true
@@ -92,10 +95,6 @@ enableEmoji = true
     [[languages.en.params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/bin-jang/"
-
-    [[languages.en.params.socialIcons]]
-    name = "instagram"
-    url = "https://www.instagram.com/binj0313"
 
     [[languages.en.params.homeInfoMode.buttons]]
     name = 'Archive'
