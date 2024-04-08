@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/Creating a Personal Blog with Hugo.md",
+                "file": "posts/2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/Creating a Personal Blog with Hugo.md",
+                "file": "posts/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/Creating a Personal Blog with Hugo.md",
+                "file": "posts/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/Creating a Personal Blog with Hugo.md"
+                "file": "posts/2.md"
               }
             }
           }
@@ -152,7 +152,7 @@
     "posts/my-first-post.md",
     "templates/post.md",
     "Creating a Personal Blog with Hugo.md",
-    "posts/Creating a Personal Blog with Hugo.md",
+    "posts/2.md",
     "templates"
   ]
 }
