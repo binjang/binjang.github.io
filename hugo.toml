@@ -40,6 +40,7 @@ ignorefiles = ['content/templates']
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Archive'
     url = '/ko/archive'
+
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Posts'
     url = '/ko/posts'
@@ -54,16 +55,23 @@ ignorefiles = ['content/templates']
     enabled = true
 
     [languages.en.params.homeInfoParams]
-    Title = "Hi there wave"
-    Content = "Can be Info, links, about..."
+    Title = "Welcome to my Blog! :raising_hand_man:"
+    Content = """
+    This Blog is for sharing my idea notes and personal projects' progresses.
+    You can find links to my portfolio and other SNS below.
+    """
 
     [[languages.en.params.socialIcons]]
-    name = "<platform>"
-    url = "<link>"
+    name = "github"
+    url = "https://github.com/binjang"
 
     [[languages.en.params.socialIcons]]
-    name = "<platform 2>"
-    url = "<link2>"
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/bin-jang/"
+
+    [[languages.en.params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/binj0313"
 
     [[languages.en.params.homeInfoMode.buttons]]
     name = 'Archive'
