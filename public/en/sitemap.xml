@@ -41,16 +41,16 @@
                 href="https://binjang.github.io/posts/"
                 />
   </url><url>
-    <loc>https://binjang.github.io/archive/</loc>
+    <loc>https://binjang.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://binjang.github.io/ko/archive/"
+                href="https://binjang.github.io/ko/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://binjang.github.io/archive/"
+                href="https://binjang.github.io/archives/"
                 />
   </url><url>
     <loc>https://binjang.github.io/categories/</loc>

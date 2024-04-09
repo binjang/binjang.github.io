@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ko/archive.md",
+                "file": "en/posts/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ko/archive.md",
+                "file": "en/posts/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ko/archive.md",
+                "file": "en/posts/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ko/archive.md"
+                "file": "en/posts/1.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   "active": "a4d06a29183aa6d5",
   "lastOpenFiles": [
     "en/archive.md",
+    "en/archives.md",
+    "ko/archive.md",
+    "ko/archives.md",
     "ko/archive 1.md",
     "en/posts/1.md",
-    "ko/archive.md",
     "ko/posts/1.md",
     "en/ko/posts/1.md",
     "en/ko/posts",
