@@ -40,7 +40,7 @@ enableRobotsTXT = true
 
     [[languages.ko.menu.main]]
     name = "Archive"
-    url = "ko/archives"
+    url = "archives"
     weight = 5
 
     [[languages.ko.menu.main]]
@@ -71,7 +71,7 @@ enableRobotsTXT = true
 
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Archive'
-    url = '/ko/archives'
+    url = 'archives'
 
     [[languages.ko.params.homeInfoMode.buttons]]
     name = 'Posts'
@@ -111,7 +111,7 @@ enableRobotsTXT = true
 
     [[languages.en.menu.main]]
     name = "Archive"
-    url = "en/archives"
+    url = "archives"
     weight = 5
 
     [[languages.en.menu.main]]
@@ -142,7 +142,7 @@ enableRobotsTXT = true
 
     [[languages.en.params.homeInfoMode.buttons]]
     name = 'Archive'
-    url = '/en/archives'
+    url = 'archives'
 
     [[languages.en.params.homeInfoMode.buttons]]
     name = 'Posts'
