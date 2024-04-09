@@ -41,6 +41,18 @@
                 href="https://binjang.github.io/posts/"
                 />
   </url><url>
+    <loc>https://binjang.github.io/archive/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://binjang.github.io/ko/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binjang.github.io/archive/"
+                />
+  </url><url>
     <loc>https://binjang.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +63,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://binjang.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://binjang.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://binjang.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binjang.github.io/series/"
                 />
   </url><url>
     <loc>https://binjang.github.io/tags/</loc>
