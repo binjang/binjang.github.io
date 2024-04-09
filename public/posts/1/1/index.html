@@ -1,18 +1,16 @@
 <!DOCTYPE html>
-<html lang="ko" dir="auto">
+<html lang="en" dir="auto">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>개발 블로그를 시작하며 | Infinite Horizon</title>
+<title>Creating a Personal Blog with Hugo | Infinite Horizon</title>
 <meta name="keywords" content="">
-<meta name="description" content="과거에 개발 블로그를 시작하려다 여러 번 실패했었는데, 주된 이유는 다음과 같았습니다.
-미적 요소에 너무 집착하느라 사이트를 채 완성하지 못해서. 네이버, 티스토리 등 서비스로 제공되는 블로그들에 비해 관리가 너무 복잡해서. 딱히 쓸 내용이 없어서. 하지만 모종의 이유를 계기로 자극을 받아서, 이번에는 마크다운 파일을 이용한 정적 웹사이트 제작 프레임워크인 Hugo를 사용하여 새로운 개발 블로그를 시작하려 합니다.
-왜 Hugo인가요? &#x1f937;&zwj;&#x2642;&#xfe0f; 다른 프레임워크들에는 없는, Hugo만의 특장점이 몇 가지 있었습니다.
-관리가 간편하다. 올해 들어서 옵시디언을 이용해 제텔카스텐이라는 형식으로 아이디어 노트들을 작성하고 있었습니다.">
-<meta name="author" content="장빈">
-<link rel="canonical" href="http://localhost:1313/ko/posts/1/">
+<meta name="description" content="I&rsquo;ve made several unsuccessful attempts at creating a personal blog in the past. These were some of the reasons behind those failures:
+I became too obsessed with aesthetics, spending a lot of time without completing a single blog. The overall process was too complex, causing me to abandon it after a few posts. I didn&rsquo;t have much to write about. Yet again, I&rsquo;m starting a new blog, but this time with Hugo.">
+<meta name="author" content="Bin Jang">
+<link rel="canonical" href="http://localhost:1313/posts/1/1/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.b609c58d5c11bb90b1a54e04005d74ad1ddf22165eb79f5533967e57df9c3b50.css" integrity="sha256-tgnFjVwRu5CxpU4EAF10rR3fIhZet59VM5Z&#43;V9&#43;cO1A=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -21,8 +19,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/1/">
-<link rel="alternate" hreflang="ko" href="http://localhost:1313/ko/posts/1/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/1/1/">
 <noscript>
     <style>
         #theme-toggle,
@@ -77,7 +74,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/ko/" accesskey="h" title="Infinite Horizon (Alt + H)">Infinite Horizon</a>
+            <a href="http://localhost:1313/" accesskey="h" title="Infinite Horizon (Alt + H)">Infinite Horizon</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -101,25 +98,25 @@
                 </button>
                 <ul class="lang-switch"><li>|</li>
                     <li>
-                        <a href="http://localhost:1313/" title="English"
-                            aria-label=":us:">🇺🇸</a>
+                        <a href="http://localhost:1313/ko/" title="Korean"
+                            aria-label=":kr:">🇰🇷</a>
                     </li>
                 </ul>
             </div>
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/ko/archives" title="Archive">
+                <a href="http://localhost:1313/en/archives" title="Archive">
                     <span>Archive</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/ko/search/" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/ko/tags/" title="Tags">
+                <a href="http://localhost:1313/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
@@ -132,31 +129,26 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      개발 블로그를 시작하며
+      Creating a Personal Blog with Hugo
     </h1>
-    <div class="post-meta"><span title='2024-04-08 17:03:21 -0400 EDT'>4월 8, 2024</span>&nbsp;·&nbsp;1 분&nbsp;·&nbsp;장빈&nbsp;|&nbsp;번역:
-<ul class="i18n_list">
-    <li>
-        <a href="http://localhost:1313/posts/1/">🇺🇸</a>
-    </li>
-</ul>
+    <div class="post-meta"><span title='2024-04-08 02:02:26 -0400 EDT'>April 8, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;Bin Jang
 
 </div>
   </header> <div class="toc">
     <details >
         <summary accesskey="c" title="(Alt + C)">
-            <span class="details">목차</span>
+            <span class="details">Table of Contents</span>
         </summary>
 
         <div class="inner"><ul>
                 <li>
-                    <a href="#%ec%99%9c-hugo%ec%9d%b8%ea%b0%80%ec%9a%94-man_shrugging" aria-label="왜 Hugo인가요? &#x1f937;&zwj;&#x2642;&#xfe0f;">왜 Hugo인가요? &#x1f937;&zwj;&#x2642;&#xfe0f;</a><ul>
+                    <a href="#why-hugo-man_shrugging" aria-label="Why Hugo? &#x1f937;&zwj;&#x2642;&#xfe0f;">Why Hugo? &#x1f937;&zwj;&#x2642;&#xfe0f;</a><ul>
                         <ul>
                         
                 <li>
-                    <a href="#%ea%b4%80%eb%a6%ac%ea%b0%80-%ea%b0%84%ed%8e%b8%ed%95%98%eb%8b%a4" aria-label="관리가 간편하다.">관리가 간편하다.</a></li>
+                    <a href="#its-convenient" aria-label="It&rsquo;s Convenient.">It&rsquo;s Convenient.</a></li>
                 <li>
-                    <a href="#%ec%97%84%ec%b2%ad-%eb%b9%a0%eb%a5%b4%eb%8b%a4" aria-label="엄청 빠르다.">엄청 빠르다.</a>
+                    <a href="#its-blazing-fast" aria-label="It&rsquo;s Blazing Fast.">It&rsquo;s Blazing Fast.</a>
                 </li>
             </ul>
             </ul>
@@ -166,22 +158,20 @@
     </details>
 </div>
 
-  <div class="post-content"><p><img loading="lazy" src="/images/hugo-logo-wide.svg" alt="Hugo logo"  />
-</p>
-<p>과거에 개발 블로그를 시작하려다 여러 번 실패했었는데, 주된 이유는 다음과 같았습니다.</p>
+  <div class="post-content"><p>I&rsquo;ve made several unsuccessful attempts at creating a personal blog in the past. These were some of the reasons behind those failures:</p>
 <ul>
-<li>미적 요소에 너무 집착하느라 사이트를 채 완성하지 못해서.</li>
-<li>네이버, 티스토리 등 서비스로 제공되는 블로그들에 비해 관리가 너무 복잡해서.</li>
-<li>딱히 쓸 내용이 없어서.</li>
+<li>I became too obsessed with aesthetics, spending a lot of time without completing a single blog.</li>
+<li>The overall process was too complex, causing me to abandon it after a few posts.</li>
+<li>I didn&rsquo;t have much to write about.</li>
 </ul>
-<p>하지만 모종의 이유를 계기로 자극을 받아서, 이번에는 마크다운 파일을 이용한 정적 웹사이트 제작 프레임워크인 <a href="https://gohugo.io">Hugo</a>를 사용하여 새로운 개발 블로그를 시작하려 합니다.</p>
-<h1 id="왜-hugo인가요-man_shrugging">왜 Hugo인가요? &#x1f937;&zwj;&#x2642;&#xfe0f;<a hidden class="anchor" aria-hidden="true" href="#왜-hugo인가요-man_shrugging">#</a></h1>
-<p>다른 프레임워크들에는 없는, Hugo만의 특장점이 몇 가지 있었습니다.</p>
-<h3 id="관리가-간편하다">관리가 간편하다.<a hidden class="anchor" aria-hidden="true" href="#관리가-간편하다">#</a></h3>
-<p>올해 들어서 옵시디언을 이용해 <a href="https://ko.wikipedia.org/wiki/%EB%A9%94%EB%AA%A8_%EC%83%81%EC%9E%90">제텔카스텐</a>이라는 형식으로 아이디어 노트들을 작성하고 있었습니다. 마크다운 문법에 이미 익숙해진 상황에서, (작성 및 결과물 확인 과정이 매우 귀찮은) 별도의 HTML 작성 없이 마크다운 파일 작성(옵시디언으로 작성 및 렌더링 후 자동으로 푸쉬 가능)만으로 블로그 업데이트가 가능하다는 점은 굉장히 큰 매력이었습니다.</p>
-<h3 id="엄청-빠르다">엄청 빠르다.<a hidden class="anchor" aria-hidden="true" href="#엄청-빠르다">#</a></h3>
-<p>Hugo는 마크다운 파일에 최적화하여 설계된 정적 웹사이트용 프레임워크 이므로, 굉장히 빠릅니다. 심지어 제가 예전에 프레임워크 없이 HTML-CSS-JavaScript 만으로 만든 몇몇 바닐라 웹사이트들 보다 빨랐던 점이 놀라웠습니다.</p>
-<p>위 두 가지 이유 때문에 Hugo를 사용해서 개발 블로그를 시작하게 되었고, 앞으로 공부 및 프로젝트들을 진행하며 떠오르는 제 생각을 정리한 글들을 올릴 생각입니다. 많은 관심 가져주세요. 감사합니다.</p>
+<p>Yet again, I&rsquo;m starting a new blog, but this time with <a href="https://gohugo.io">Hugo</a>.</p>
+<h1 id="why-hugo-man_shrugging">Why Hugo? &#x1f937;&zwj;&#x2642;&#xfe0f;<a hidden class="anchor" aria-hidden="true" href="#why-hugo-man_shrugging">#</a></h1>
+<p>Hugo emerged as a clear winner over other frameworks for several crucial reasons:</p>
+<h3 id="its-convenient">It&rsquo;s Convenient.<a hidden class="anchor" aria-hidden="true" href="#its-convenient">#</a></h3>
+<p>I was already creating <a href="https://en.wikipedia.org/wiki/Zettelkasten">Zettelkasten</a> notes in markdown format for a personal knowledge base and idea management. Since Hugo pages are just markdown files, all I need to do is write a markdown file, and the blog updates automatically.</p>
+<h3 id="its-blazing-fast">It&rsquo;s Blazing Fast.<a hidden class="anchor" aria-hidden="true" href="#its-blazing-fast">#</a></h3>
+<p>Being a static site generator optimized for markdown files, Hugo-powered websites are lightning-fast. This speed surprised me, as it even outperformed some of the vanilla HTML-CSS-JavaScript websites I&rsquo;ve built in my previous attempts.</p>
+<p>These were the two most important reasons behind my choice. In the next post, I&rsquo;ll dive into how I actually set this up in less than an hour.</p>
 
 
   </div>
@@ -194,7 +184,7 @@
     </main>
     
 <footer class="footer">
-    <span>&copy; 2024 <a href="http://localhost:1313/ko/">Infinite Horizon</a></span>
+    <span>&copy; 2024 <a href="http://localhost:1313/">Infinite Horizon</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
