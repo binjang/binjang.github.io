@@ -65,6 +65,18 @@
                 href="https://binjang.github.io/ko/categories/"
                 />
   </url><url>
+    <loc>https://binjang.github.io/ko/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://binjang.github.io/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://binjang.github.io/ko/search/"
+                />
+  </url><url>
     <loc>https://binjang.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
