@@ -19,6 +19,7 @@ enableRobotsTXT = true
     comments = true
     hideSummary = false
     languageAltTitle = 'Korean'
+    displayFullLangName = true
     ShowToc = true
 
     [languages.ko.params.homeInfoMode]
@@ -89,6 +90,7 @@ enableRobotsTXT = true
     comments = true
     hideSummary = false
     languageAltTitle = 'English'
+    displayFullLangName = true
     ShowToc = true
 
     [languages.en.params.homeInfoMode]
