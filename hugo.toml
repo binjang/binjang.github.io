@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
-    languageName = ':ko:'
+    languageName = 'Korean'
     weight = 2
 
     [languages.ko.params]
@@ -78,7 +78,7 @@ enableRobotsTXT = true
 
     [languages.en]
     contentDir = 'content/en'
-    languageName = ':en:'
+    languageName = 'English'
     weight = 1
 
 
