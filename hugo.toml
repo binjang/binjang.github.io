@@ -9,7 +9,7 @@ enableRobotsTXT = true
 [languages]
     [languages.ko]
     contentDir = 'content/ko'
-    languageName = ':ko: Korean'
+    languageName = ':kr:'
     weight = 2
 
     [languages.ko.params]
@@ -29,7 +29,7 @@ enableRobotsTXT = true
     Title = "Welcome to my Blog! :raising_hand_man:"
     Content = """
     개인 프로젝트 및 개인적인 아이디어 노트들을 공유하는 공간입니다.
-    포트폴리오 및 다른 소셜 미디어 링크들은 아래에서 찾아보실 수 있습니다.
+    제 포트폴리오 및 다른 소셜 미디어는 아래 링크에서 찾아보실 수 있습니다.
     """
 
     [languages.ko.taxonomies]
@@ -79,7 +79,7 @@ enableRobotsTXT = true
 
     [languages.en]
     contentDir = 'content/en'
-    languageName = ':en: English'
+    languageName = ':us:'
     weight = 1
 
 
