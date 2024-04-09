@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Infinite Horizon</title>
-    <link>https://binjang.github.io/ko/</link>
+    <link>http://localhost:1313/ko/</link>
     <description>Recent content on Infinite Horizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 08 Apr 2024 17:03:21 -0400</lastBuildDate>
-    <atom:link href="https://binjang.github.io/ko/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ko/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>개발 블로그를 시작하며</title>
-      <link>https://binjang.github.io/ko/posts/1/</link>
+      <link>http://localhost:1313/ko/posts/1/</link>
       <pubDate>Mon, 08 Apr 2024 17:03:21 -0400</pubDate>
-      <guid>https://binjang.github.io/ko/posts/1/</guid>
+      <guid>http://localhost:1313/ko/posts/1/</guid>
       <description>과거에 개발 블로그를 시작하려다 여러 번 실패했었는데, 주된 이유는 다음과 같았습니다.
 미적 요소에 너무 집착하느라 사이트를 채 완성하지 못해서. 네이버, 티스토리 등 서비스로 제공되는 블로그들에 비해 관리가 너무 복잡해서. 딱히 쓸 내용이 없어서. 하지만 모종의 이유를 계기로 자극을 받아서, 이번에는 마크다운 파일을 이용한 정적 웹사이트 제작 프레임워크인 Hugo를 사용하여 새로운 개발 블로그를 시작하려 합니다.
 왜 Hugo인가요? &amp;#x1f937;&amp;zwj;&amp;#x2642;&amp;#xfe0f; 다른 프레임워크들에는 없는, Hugo만의 특장점이 몇 가지 있었습니다.
