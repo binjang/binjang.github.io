@@ -7,8 +7,11 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [services]
-  [services.disqus]
-    shortname = 'your-disqus-shortname'
+    [services.disqus]
+        shortname = 'your-disqus-shortname'
+
+[params]
+    comments = true
 
 [languages]
     [languages.ko]
