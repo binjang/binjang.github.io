@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ko/</loc>
+    <loc>https://binjang.github.io/ko/</loc>
     <lastmod>2024-04-08T22:03:30-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://binjang.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/"
+                href="https://binjang.github.io/ko/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/posts/</loc>
+    <loc>https://binjang.github.io/ko/posts/</loc>
     <lastmod>2024-04-08T22:03:30-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://binjang.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/posts/"
+                href="https://binjang.github.io/ko/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/posts/1/</loc>
+    <loc>https://binjang.github.io/ko/posts/1/</loc>
     <lastmod>2024-04-08T17:03:21-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/1/"
+                href="https://binjang.github.io/posts/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/posts/1/"
+                href="https://binjang.github.io/ko/posts/1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/archives/</loc>
+    <loc>https://binjang.github.io/ko/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://binjang.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/archives/"
+                href="https://binjang.github.io/ko/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/categories/</loc>
+    <loc>https://binjang.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://binjang.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/categories/"
+                href="https://binjang.github.io/ko/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/search/</loc>
+    <loc>https://binjang.github.io/ko/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://binjang.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/search/"
+                href="https://binjang.github.io/ko/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/series/</loc>
+    <loc>https://binjang.github.io/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://binjang.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/series/"
+                href="https://binjang.github.io/ko/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ko/tags/</loc>
+    <loc>https://binjang.github.io/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://binjang.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://localhost:1313/ko/tags/"
+                href="https://binjang.github.io/ko/tags/"
                 />
   </url>
 </urlset>

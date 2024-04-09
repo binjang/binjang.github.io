@@ -6,10 +6,6 @@ ignorefiles = ['content/templates']
 enableEmoji = true
 enableRobotsTXT = true
 
-[services]
-    [services.disqus]
-        shortname = 'your-disqus-shortname'
-
 [params]
     comments = true
 

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Infinite Horizon</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://binjang.github.io/posts/</link>
     <description>Recent content in Posts on Infinite Horizon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 08 Apr 2024 02:02:26 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://binjang.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating a Personal Blog with Hugo</title>
-      <link>http://localhost:1313/posts/1/</link>
+      <link>https://binjang.github.io/posts/1/</link>
       <pubDate>Mon, 08 Apr 2024 02:02:26 -0400</pubDate>
-      <guid>http://localhost:1313/posts/1/</guid>
+      <guid>https://binjang.github.io/posts/1/</guid>
       <description>I&amp;rsquo;ve made several unsuccessful attempts at creating a personal blog in the past. These were some of the reasons behind those failures:
 I became too obsessed with aesthetics, spending a lot of time without completing a single blog. The overall process was too complex, causing me to abandon it after a few posts. I didn&amp;rsquo;t have much to write about. Yet again, I&amp;rsquo;m starting a new blog, but this time with Hugo.</description>
     </item>
