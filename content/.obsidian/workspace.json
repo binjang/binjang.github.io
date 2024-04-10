@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ko/posts/2.md",
+                "file": "ko/posts/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ko/posts/2.md",
+                "file": "ko/posts/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ko/posts/2.md",
+                "file": "ko/posts/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ko/posts/2.md"
+                "file": "ko/posts/1.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "000f90646ea7b766",
   "lastOpenFiles": [
+    "ko/posts/2.md",
     "Screenshot 2024-04-09 at 4.32.31 PM.png",
     "Screenshot 2024-04-09 at 4.17.42 PM.png",
     "ko/search.md",
-    "ko/posts/2.md",
     "en/posts/1.md",
     "en/posts/1/1.md",
     "en/posts/1",
